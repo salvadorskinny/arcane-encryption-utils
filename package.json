@@ -1,0 +1,25 @@
+{
+  "name": "arcane-encryption-utils",
+  "version": "1.0.2",
+  "description": "A simple library providing encryption utilities with a fantasy-themed twist.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salvadorskinny/arcane-encryption-utils"
+  },
+  "keywords": [
+    "encryption",
+    "fantasy",
+    "security",
+    "arcane",
+    "utilities"
+  ],
+  "author": "Rowan Alder",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
